@@ -113,7 +113,7 @@
 
     <h2>Visualiza el Futuro</h2>
     <div class="image-container">
-      <p><em>(Aquí irá la imagen oficial de la moneda Jordifill)</em></p>
+      <p><em></em></p>
       <img src="ruta_de_tu_imagen.png" alt="Logo de la Criptomoneda Jordifill">
     </div>
 
